@@ -1,0 +1,72 @@
+header {
+    background-color: rgb(218, 217, 217);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+div.alert {
+    padding: 0%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.container {
+    border-color: grey;
+    width: 700px;
+    border-radius: 5px;
+}
+
+div.cards {
+    background-color: grey;
+    border-radius: 4px;
+    margin-right: 40px;
+}
+
+div.mb-3 {
+    align-content: right;
+    margin-right: 0%;
+    width: 40%;
+}
+
+div.thirdrow {
+    display: flex;
+    padding: 8px;
+}
+
+.col-md-6 {padding-right: 8px;
+}
+
+.col-md-4 {padding-right: 8px;
+}
+
+.form-control {
+    display: flex;
+}
+
+div.fourthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.letra {
+    color: grey;
+    font-size: smaller;
+}
+
+footer {
+    background-color: rgb(218, 217, 217);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn btn-secondary {
+    justify-content: right;
+    align-content: right;
+}
+
+.btn btn-primary {
+    margin: right 50px;;
+}
